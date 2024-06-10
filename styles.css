@@ -64,7 +64,55 @@ body{
 .equal:active{
     background-color: hsl(134, 100%, 65%);
 }
-
+button{
+    width: 100px;
+    height: 100px;
+    border: none;
+    background-color: hsl(0, 0%, 51%);
+    color: white;
+    font-size: 2.6rem;
+    cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: hsl(0, 0%, 40%);
+}
+button:active{
+    background-color: hsl(0, 0%, 50%);
+}
+.operator-btn{
+    background-color: hsl(35, 100%, 55%);
+}
+.operator-btn:hover{
+    background-color: hsl(35, 100%, 65%);
+}
+.operator-btn:active{
+    background-color: hsl(35, 100%, 75%);
+}button{
+    width: 100px;
+    height: 100px;
+    border: none;
+    background-color: hsl(0, 0%, 51%);
+    color: white;
+    font-size: 2.6rem;
+    cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: hsl(0, 0%, 40%);
+}
+button:active{
+    background-color: hsl(0, 0%, 50%);
+}
+.operator-btn{
+    background-color: hsl(35, 100%, 55%);
+}
+.operator-btn:hover{
+    background-color: hsl(35, 100%, 65%);
+}
+.operator-btn:active{
+    background-color: hsl(35, 100%, 75%);
+}
 
 
 
